@@ -30,6 +30,7 @@ cub3D is a 42 school project that introduces the basics of graphic programming t
 ### 1. Clone the repository
 
 git clone [https://github.com/slkrt111/cub3d.git](https://www.google.com/search?q=https://github.com/slkrt111/cub3d.git)
+
 cd cub3d
 
 ### 2. Compilation
